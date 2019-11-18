@@ -1,0 +1,7 @@
+.header{
+
+}
+
+<div style={{backgroundImage:`url(${process.env.PUBLIC_URL}/q.JPG)`, background-size:cover}}>
+        </div>
+
